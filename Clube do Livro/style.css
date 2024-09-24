@@ -1,0 +1,85 @@
+header, footer {
+    background-color: #648769;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 30px 50px;
+}
+.imagem {
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+font-size: 70px; 
+}
+h4 {
+font-size: 24px; 
+}
+h3 {
+    font-size: 35px;
+    color: #648769;
+    margin-left: 50px;
+    width: 500px;
+    margin-top: 20px;
+}
+.bloco-icone {
+width: 50px;
+}
+.caixa-icone {
+width: 50px;
+}
+.livro-icone {
+width: 50px;
+}
+h2 {
+font-size: 55px;
+align-items: center;
+}
+.inf1 {
+    width: 250px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 0px 30px;
+    font-size: 30px;
+}
+.inf2 {
+    width: 250px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 0px 30px;
+}
+.inf3 {
+    width: 250px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 0px 30px;
+}
+.informações{
+    margin: 80px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p {
+font-size: 20px;
+}
+.final {
+margin-left: 200px;
+}
